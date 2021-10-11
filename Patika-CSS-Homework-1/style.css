@@ -1,0 +1,145 @@
+.hpicon {
+        height: 120px;
+        position: absolute;
+        left: 150px;
+        top: 1px;
+        
+}
+
+h1 {
+    color: rgb(19, 173, 173);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(233, 223, 209);
+    text-align: center;
+}
+
+.link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(119, 79, 79);
+}
+
+h3 {
+    position: absolute;
+  top: 133px;
+  left: 1000px;
+  width: 200px;
+  height: 20px;
+  border: 3px solid #73AD21;
+}
+
+.ckp {
+    position: absolute;
+  top: 170px;
+  left: 1000px;
+  width: 200px;
+  height: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+
+.list1 {
+    list-style-type: none;
+    left: 475px;
+    position: absolute;
+    top: 430px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    width: 300px;
+}
+
+.list2 {
+    list-style-type: none;
+    left: 790px;
+    position: absolute;
+    top: 430px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    width: 300px;
+}
+
+.prices {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    position: absolute;
+    top: 150px;
+    left: 425px;
+    width: 100px;
+    height: 20px;
+    border: 3px solid #73AD21;
+}
+
+.a2 {
+    position: absolute;
+    top: 750px;
+    
+}
+
+.a3 {
+    position: absolute;
+    top: 1500px;
+    
+}
+
+p.font {
+    text-align: center;    
+    width: 50%;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 80px;
+    position: relative;
+    
+    
+}
+
+img.pic {
+    position: absolute;
+    left: 660px;
+}
+
+main div.prices {
+    position: relative;
+    width: 250px;
+    left: 635px;
+    border: none;
+    font-size: 25px;
+    margin-bottom: 90px;
+}
+
+.pric {
+    position: absolute;
+    color: red;
+    width: 280px;
+    left: -20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    top: 10px;
+}
+
+.contact {
+    position: relative;
+    top: 200px;
+}
+section a {
+    display: block;
+    width: 70px;
+    padding: 10px;
+    position: relative;
+    left: 720px;
+    
+    
+    
+    
+}
+

@@ -1,0 +1,63 @@
+body{
+    background-color: burlywood;
+}
+h1 {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.tf {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p2 {
+    position: relative;
+    left: 650px;
+    width: 580px;   
+}
+
+.pin {
+    float: left;
+    left: 650px;
+    margin: 10px;;
+}
+
+.section {
+    position: relative;
+    float: left;
+    left: 70px;
+    width: 650px;
+    margin: 20px;
+}
+
+.sn{
+    color: red;
+}
+
+.p3 {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    left: 750px;
+    top: 500px;
+    width: 120px;
+}
+
+.h2sn {
+    color: white;
+    background-color: tomato;
+    border-radius: 10px;
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+}
+
+ol > li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul > li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
