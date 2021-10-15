@@ -1,7 +1,7 @@
 # Müzik Dükkanı
----
+
 ## Front End Öğrenirken Benden İstenilen Ödev.
----
+
 ### İçindekiler
 * Bootstrap kullanarak;
 * Navbar ile "anasayfa" "ürünler" "hakkımızda" olarak linkle yönlendirilen 3 sayfa var.
