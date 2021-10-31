@@ -1,0 +1,9 @@
+h1,h2 {
+    color: #fd7e14;
+    letter-spacing: 5px;
+}
+
+#currentDate {
+    color: #fd7e14;
+    font-size: 80px;
+}
